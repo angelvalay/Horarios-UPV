@@ -15,3 +15,9 @@ Primero, abrimos la IDE IntelliJ Idea. Daremos clic a la opcion *Check
 out from Version Control*. Y luego clic a la opcion de *Git*.
 
 ![](.README_images/pri1.png)
+
+Copiamos la siguiente URL
+[https://github.com/angelvalay/Horarios-UPV.git](https://github.com/angelvalay/Horarios-UPV.git).
+Y la pegamos en la parte de *URL* y le damos *Clone* para continuar.
+
+![](.README_images/secu2.png)
