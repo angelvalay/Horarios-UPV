@@ -1,4 +1,7 @@
 # Sistema de creacion de horarios de la UPV
+
+### **LEAN TODO Y PREGUNTEN.**
+
 ### Requerimientos para hacer funcionar el proyecto:
 1. Se requiere tener Java 11.0.3 o superior.
 2. Se requiere tener al menos la version de Java 12.0.2. Junto con el
@@ -75,10 +78,11 @@ Los archivos JavaFX utilizan un plugin para el diseno *JFoenix*. Para
 mas informacion sobre la instalacion de este plugin ve el siguiente
 [enlace](http://www.jfoenix.com/) para el proceso de instalacion.
 
-### Importacion de la base de datos Para lograr importar la base de datos
-requerira el archivo SQL que se encuentra ubicado en la carpeta de
-src/main/resources/sql, hay esta el archivo que importara mediante su
-SGBD preferido (yo recomiendo para este caso usar phpMyAdmin).
+### Importacion de la base de datos 
+Para lograr importar la base de datos requerira el archivo SQL que se
+encuentra ubicado en la carpeta de src/main/resources/sql, hay esta el
+archivo que importara mediante su SGBD preferido (yo recomiendo para
+este caso usar phpMyAdmin).
 
 ## Observacion
 Los archivos JavaFX (.fxml) que se encuentra ubicados en la carpeta de
